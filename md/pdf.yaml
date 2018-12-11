@@ -1,0 +1,13 @@
+---
+title: Makefile et MD
+author: Eonm
+bibliography: ./bib/bib.bib
+csl: ./bib/style.csl
+language: fr-FR
+documentclass: book #report, memoir, article
+classoption: twoside #oneside
+link-citations: true
+header-includes:
+  - \usepackage[french]{babel}
+  - \usepackage[unicode=true]{hyperref}
+---
