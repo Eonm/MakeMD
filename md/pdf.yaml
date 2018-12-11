@@ -9,5 +9,4 @@ classoption: twoside #oneside
 link-citations: true
 header-includes:
   - \usepackage[french]{babel}
-  - \usepackage[unicode=true]{hyperref}
 ---
