@@ -14,7 +14,7 @@ deploy:
   provider: releases
   api_key:
     secure: bJosJDCAuMWW0FjCh+G+5L29wGpDpSJsLbg8KsMEW3OgJhMMzj2/z7Su2RPawx1EkGlG/1zERh1C0pvh79VWrLcNqIsIQzJi03syUkVLvHcuPlRnThQTwq5mdQ2tc1oahDS8oD1+MraP6GiV0+GZnZudLn/LlQp+F2oOEOdiVDmbEEfcKxLRGsyPl2z6fTL/8oJp5iHtXX8On3rB3S4hQC+Z2l7yXfY/kiOwbhDhaLyM3qai5uO7fYqOCnNbTJ0yaJ6eeebQCCNE6zd/DF3G3ASp1ZpgxEO32EAcrNsdDOX7cCWDGqrPa59ObTv0OJz9iFH++6HmwLodYhUsDV1N97nE0cWElQISmqzlQN0v6n8xq+MzLJx9qaWeCjhFkPkBycs5C181VmKQFBUQ07Inku6ZXTcZSOWziEPuu+oU55LfSxIJy+mhYrU2ia9KYNFWRRn2dfDwtL6WIefgZ7kKoSNLLP/qB1mbHrxobyZHww/3cwFIZSQ645W7Xw0ywrlOO6gdJroiBDH7Eoa8LU96wzCxIs/ZKV6NjUbxdJ7/BnKDwTQhREluXA2f7+5FRjPEAEBVAemUzRwnkSWUpuQ7CsfzH0Wekvcr+doGYLoml8DK7ACOmYgm4uvruqe5RmFydpQjJVT+JhpfZdX3mCtmVhrBbgTGN+P5PIIodEud8E8=
-  file: pdf/*
+  file: pdf/makefile-et-md.pdf
   on:
     repo: Eonm/MakeMD
-  tags: true
+    tags: true
