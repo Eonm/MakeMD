@@ -1,7 +1,7 @@
 language: generic
 before_install:
   - sudo apt-get update
-  - sudo apt install -y nodejs npm texlive-latex-base texlive-latex-extra texlive-lang-european pandoc pandoc-citeproc texlive-fonts-recommended;
+  - sudo apt install -y nodejs npm texlive-latex-base texlive-latex-extra texlive-lang-french texlive-lang-european pandoc pandoc-citeproc texlive-fonts-recommended;
 env:
   global:
   - secure: X/cHd/FSwvFn2alv3fGBswv4KI8RVLQ3c7NRaE4tdaFl5n7eSXrw6wRz2Lppq1A+I7rYj+jBwq9/n2CDUjED7dV7G1FVe48pdEHPp05iHEq5GL6qSiRtIudMX849aLrtPoc2qIZVvmXL3AGFCasPG1lRv3swVOmLaXBHrmuogUEyTFiLiWyZMqTLA6Bl5fauz25HQ63egzn9yxs075kAvx8jSPP9dN7NcNfuefI9KHsIinby+1q1T+OGnKUWGs0FzCTkPdbiA9onEm/f9l5C6okSsT/NdJQx0c2WGJcPxvG8G6H+fE+2rk+FiDVGnI34vH3THRINxjmNZ5PABhXBBih0PgTiDkhqbF+87yVnSKsc1f/30MxHLRmkLCBuqWeJfKFituaU4UsBCFYb06pt7x6OBScDKMRC0D6zSLX26TXJ8a9l7QCzLmwqkEkSiaZU5pDm7yyKxiPVgmem8aTWpidk/EQMrbUi94V+5L3NC/TZTrA2dnOr7TNuTH4WDKlk5i9XfGX84ChTpBLWFiKVmcV6kckdhNLWaJm2Whqs4sOMJk7Hr7GpG/t8FBBxfkcBXMcWedZLcHFvkfZQwfNxS9+S41d31K074XxK9wo7t0DORTYRu4rz1VW5Q7U98Cusemw5pdXu4NErwebBx3/wIJehm/jzRdBRZmfop1tV75U=
